@@ -1,3 +1,5 @@
+package main;
+
 public class SampleProject {
 	//print  Hello world! in the console
 	public static String printHello() {
