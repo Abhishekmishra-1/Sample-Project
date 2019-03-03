@@ -2,8 +2,9 @@ package power;
 import java.util.Scanner;
 public class Power {
 
-	public static void main(String[] args) {
+	public static void main(String[] args{
 		Scanner in = new Scanner(System.in);
+		//taking input base and exponent
 		System.out.println("Enter base and exponent: ");
 		int base = in.nextInt();
 		int exponent = in.nextInt();
