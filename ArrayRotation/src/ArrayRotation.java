@@ -3,6 +3,7 @@ public class ArrayRotation {
 	public static void main(String[] args)
 	{
 		Scanner in = new Scanner(System.in);
+		//Taking input size of an array
 		System.out.println("Enter size of an array: ");
 		int size = in.nextInt();
 		System.out.println("Enter elements in an array: ");
