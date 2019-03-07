@@ -60,7 +60,7 @@ class EmployeeRecord {
 		this.salary = salary;
 	}	
 }
-
+//Manager class inherit EmployeeRecord
 class Manager extends EmployeeRecord {
 	int noOfReportees;
 	
