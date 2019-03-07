@@ -2,6 +2,7 @@ import java.util.Scanner;
 public class MusicPlayer {
    public static void main(String args[])
    {
+      //taking input
      Scanner in = new Scanner(System.in);
      System.out.println("Enter battery: ");
      int battery = in.nextInt();
